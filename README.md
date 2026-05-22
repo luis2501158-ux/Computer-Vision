@@ -9,8 +9,8 @@
 1. Crear un entorno virtual:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate  
+#python -m venv .venv
+#source .venv/bin/activate  
 ```
 
 2. Instalar dependencias:
